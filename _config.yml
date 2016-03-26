@@ -1,6 +1,6 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
+title: Jaskaran Veer Singh
+description: 'Connect with him.'
 url: 'http://joshgerdes.com/jekyll-uno'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
@@ -10,9 +10,9 @@ author:
   name: 'Jaskaran Veer Singh'
   email: jvsg1303@gmail.com
   twitter_username: impracticaljvsg
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  facebook_username: profile.php?id=100009700660751
+  github_username:  jvsg
+  linkedin_username:  jaskaran-singh-726506102
 
 defaults:
   -
