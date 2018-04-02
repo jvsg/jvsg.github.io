@@ -10,8 +10,8 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Made with Emacs.
 
-url:  # the base hostname & protocol for your site
-baseurl: / # the subpath of your site, e.g. /blog/
+url: http://www.jvsg.github.io # the base hostname & protocol for your site
+baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
@@ -22,7 +22,7 @@ twitter_username: std_exception # put your twitter username
 linkedin_username: # put your linkedin username
 scholar_authorid: # put your google scholar author id
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  I'd like to be contacted by Email.
 
 google_analytics: UA-75875232-1 # out your google-analytics code
 
@@ -79,7 +79,7 @@ include: ['_pages', '_static']
 # Gems
 gems:
     - jekyll-paginate
-    - jekyll/scholar
+    - jekyll-scholar
     - jemoji
 
 # Jekyll-Scholar
