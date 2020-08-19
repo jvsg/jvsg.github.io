@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Jaskaran</strong> Veer Singh
-description: Life is a balance between holding on and letting go &emsp;--Rumi.
+description:
 
 profile:
   align: right
