@@ -14,6 +14,10 @@ news: true
 social: true
 ---
 
- Jaskaran Veer Singh (Pronounced: jas-karan {jus as in 'just', karan as 'curren' in 'current'}) (Devanagari:जसकरन सिंह Gurmukhi: ਜਸਕਰਨ ਸਿੰਘ )
+Jaskaran Veer Singh (Pronounced: jahs-kah-rahn) (Devanagari:जसकरन सिंह Gurmukhi: ਜਸਕਰਨ ਸਿੰਘ )
 
-I am a PhD student at University of Minnesota, Twin Cities. I am interested in privacy, security and anonymity in online communication. Apart from that, I am interested in Graph theory, Computational Geometry, Metamathematics, Philosophy of Science and history.
+I am a PhD student at University of Minnesota, Twin Cities. I am interested in cryptography, privacy, security and anonymity in online communication. In my free time, I am interested in Graph theory, Computational Geometry, Metamathematics, Philosophy of Science, history, and economics (a pseudoscience, but good to know).
+
+I also maintain a very close watch on Network Neuroscience. One of the most mysterious objects in the universe is the closest to us (literally), and that is our brain. Network neuroscience has shown potential in leading us to new discoveries in the field.
+
+You can find me in Keller hall 4-225G (not during covid times) or taking a tour of nature in parks around you or playing squash.

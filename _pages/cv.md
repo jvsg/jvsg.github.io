@@ -1,6 +1,6 @@
 ---
 layout: page
 title: CV
-permalink: /cv.pdf
+permalink: /assets/pdf/CV.pdf
 description: Jaskaran's CV.
 ---
