@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Jaskaran Veer Singh
-email: jvsg1303@gmail.com
+email: singh882@umn.edu
 description: > # this means to ignore newlines until "url:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -18,7 +18,7 @@ last_updated: # leave blank if you don't want to display last updated
 # Social integration
 # -----------------------------------------------------------------------------
 github_username: jvsg # put your github username
-twitter_username: std_exception # put your twitter username
+twitter_username: #std_exception # put your twitter username
 linkedin_username: # put your linkedin username
 scholar_authorid: # put your google scholar author id
 contact_note: >
@@ -61,7 +61,7 @@ collections:
     permalink: /news/:path/
   projects:
     output: true
-    permalink: 
+    permalink:
 
 news_limit: 5
 
