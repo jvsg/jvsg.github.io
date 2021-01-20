@@ -21,3 +21,5 @@ I am a PhD student at University of Minnesota, Twin Cities. I am interested in C
 In my free time, I am interested in Graph theory, Computational Geometry, Metamathematics, Philosophy of Science, History, and Economics (a pseudoscience, but good to know).
 
 You can find me in Keller hall 4-225G (not during covid times) or taking a tour of the nature in parks around you.
+
+Here is my [public key](assets/data/public.pgp)
