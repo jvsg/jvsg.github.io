@@ -6,18 +6,18 @@ description:
 
 profile:
   align: right
-  image: MeIRL.jpg
+  image: white_falcon.jpeg
   address: >
-    <p> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Me IRL</p>
+    <p> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; A white falcon</p>
 
 news: true
 social: true
 ---
 
-Jaskaran Veer Singh (Pronounced: jahs-kah-rahn) (Devanagari:जसकरन सिंह Gurmukhi: ਜਸਕਰਨ ਸਿੰਘ )
+Jaskaran Veer Singh (Pronounced: jahs-kah-rahn) (Gurmukhi: ਜਸਕਰਨ ਸਿੰਘ )
 
-I am a PhD student at University of Minnesota, Twin Cities. I am interested in cryptography, privacy, security and anonymity in online communication. In my free time, I am interested in Graph theory, Computational Geometry, Metamathematics, Philosophy of Science, history, and economics (a pseudoscience, but good to know).
+I am a PhD student at University of Minnesota, Twin Cities. I am interested in Cryptography, Privacy, Security and Anonymity in online communication. Within Cryptography, I am focusing on Secure Multiparty Computation.
 
-I also maintain a very close watch on Network Neuroscience. One of the most mysterious objects in the universe is the closest to us (literally), and that is our brain. Network neuroscience has shown potential in leading us to new discoveries in the field.
+In my free time, I am interested in Graph theory, Computational Geometry, Metamathematics, Philosophy of Science, History, and Economics (a pseudoscience, but good to know).
 
-You can find me in Keller hall 4-225G (not during covid times) or taking a tour of nature in parks around you or playing squash.
+You can find me in Keller hall 4-225G (not during covid times) or taking a tour of the nature in parks around you.
